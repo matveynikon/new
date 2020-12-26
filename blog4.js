@@ -7,7 +7,7 @@ var j = 86400000 / (v) - x;
 var l = x / 14000;
 var k = 1;
 async function start() {
-  const url = 'https://matveynikon.wixsite.com/dailyhero/post/inventions-that-help-the-world';
+  const url = 'https://matveynikon.wixsite.com/dailyhero/post/this-is-your-second-post';
   const browser = await puppeteer.launch({
     args: ['--no-sandbox']
   });  
